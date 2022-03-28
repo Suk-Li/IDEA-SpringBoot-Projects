@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ch" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>用户信息</title>
+</head>
+<body>
+    <h1 th:text="${'用户编号：'+user.userId}"></h1>
+    <h1 th:text="${'用户名：'+user.username}"></h1>
+    <h1 th:text="${'用户密码：'+user.password}"></h1>
+
+<!--选择变量表达式，星号表达式
+    *{}必须使用th:object来绑定
+    在div中使用*来代替绑定的对象${user}
+-->
+<div th:object="${user}">
+    用户编号:<span th:text="*{userId}"></span><br/>
+    用户名:<span th:text="*{username}"></span><br/>
+    用户密码:<span th:text="*{password}"></span><br/>
+</div>
+</body>
+</html>

@@ -1,0 +1,4 @@
+# 项目排除路径
+/springboot-07-dubbo-interface/target/
+/springboot-10-springboot-dubbo-ssm-interface/target/
+/springboot-22-springboot-dubbo-interface/target/

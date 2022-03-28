@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-17-servlet" />
+        <module name="springboot-15-close-logo" />
+        <module name="springboot-23-springboot-dubbo-ssm-provider" />
+        <module name="springboot-02-springmvc" />
+        <module name="springboot-09-dubbo-consumer" />
+        <module name="springboot-06-springboot-transaction" />
+        <module name="springboot-13-springboot-java-1" />
+        <module name="springboot-18-filter" />
+        <module name="springboot-10-springboot-dubbo-ssm-interface" />
+        <module name="springboot-12-springboot-dubbo-ssm-consumer" />
+        <module name="springboot-03-contextpath" />
+        <module name="springboot-08-dubbo-provider" />
+        <module name="springboot-01-first" />
+        <module name="springboot-14-springboot-java-2" />
+        <module name="springboot-04-jsp" />
+        <module name="springboot-05-springboot-mybatis" />
+        <module name="springboot-24-springboot-dubbo-ssm-consumer" />
+        <module name="springboot-16-interceptor" />
+        <module name="springboot-19-thymeleaf-first" />
+        <module name="springboot-20-thymeleaf-second" />
+        <module name="springboot-22-springboot-dubbo-interface" />
+        <module name="springboot-04-springboot-redis" />
+        <module name="springboot-07-dubbo-interface" />
+        <module name="springboot-11-springboot-dubbo-ssm-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot-01-first" target="1.8" />
+      <module name="springboot-02-springmvc" target="1.8" />
+      <module name="springboot-03-contextpath" target="1.8" />
+      <module name="springboot-04-jsp" target="1.8" />
+      <module name="springboot-04-springboot-redis" target="1.8" />
+      <module name="springboot-05-springboot-mybatis" target="1.8" />
+      <module name="springboot-06-springboot-transaction" target="1.8" />
+      <module name="springboot-07-dubbo-interface" target="8" />
+      <module name="springboot-08-dubbo-provider" target="1.8" />
+      <module name="springboot-09-dubbo-consumer" target="1.8" />
+      <module name="springboot-10-springboot-dubbo-ssm-interface" target="8" />
+      <module name="springboot-11-springboot-dubbo-ssm-provider" target="1.8" />
+      <module name="springboot-12-springboot-dubbo-ssm-consumer" target="1.8" />
+      <module name="springboot-13-springboot-java-1" target="1.8" />
+      <module name="springboot-14-springboot-java-2" target="1.8" />
+      <module name="springboot-15-close-logo" target="1.8" />
+      <module name="springboot-16-interceptor" target="1.8" />
+      <module name="springboot-17-servlet" target="1.8" />
+      <module name="springboot-18-filter" target="1.8" />
+      <module name="springboot-19-thymeleaf-first" target="1.8" />
+      <module name="springboot-20-thymeleaf-second" target="1.8" />
+      <module name="springboot-21-parent" target="8" />
+      <module name="springboot-22-springboot-dubbo-interface" target="8" />
+      <module name="springboot-23-springboot-dubbo-ssm-provider" target="8" />
+      <module name="springboot-24-springboot-dubbo-ssm-consumer" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot-01-first" options="-parameters" />
+      <module name="springboot-02-springmvc" options="-parameters" />
+      <module name="springboot-03-contextpath" options="-parameters" />
+      <module name="springboot-04-jsp" options="-parameters" />
+      <module name="springboot-04-springboot-redis" options="-parameters" />
+      <module name="springboot-05-springboot-mybatis" options="-parameters" />
+      <module name="springboot-06-springboot-transaction" options="-parameters" />
+      <module name="springboot-08-dubbo-provider" options="-parameters" />
+      <module name="springboot-09-dubbo-consumer" options="-parameters" />
+      <module name="springboot-11-springboot-dubbo-ssm-provider" options="-parameters" />
+      <module name="springboot-12-springboot-dubbo-ssm-consumer" options="-parameters" />
+      <module name="springboot-13-springboot-java-1" options="-parameters" />
+      <module name="springboot-14-springboot-java-2" options="-parameters" />
+      <module name="springboot-15-close-logo" options="-parameters" />
+      <module name="springboot-16-interceptor" options="-parameters" />
+      <module name="springboot-17-servlet" options="-parameters" />
+      <module name="springboot-18-filter" options="-parameters" />
+      <module name="springboot-19-thymeleaf-first" options="-parameters" />
+      <module name="springboot-20-thymeleaf-second" options="-parameters" />
+      <module name="springboot-22-springboot-dubbo-interface" options="-parameters" />
+      <module name="springboot-23-springboot-dubbo-ssm-provider" options="-parameters" />
+      <module name="springboot-24-springboot-dubbo-ssm-consumer" options="-parameters" />
+    </option>
+  </component>
+</project>

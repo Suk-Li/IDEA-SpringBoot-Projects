@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-01-first/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-02-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-03-contextpath/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-04-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-05-springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-06-springboot-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-04-springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-07-dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-08-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-09-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-10-springboot-dubbo-ssm-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-11-springboot-dubbo-ssm-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-12-springboot-dubbo-ssm-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-13-springboot-java-1/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-14-springboot-java-2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-15-close-logo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-16-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-17-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-18-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-19-thymeleaf-first/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-20-thymeleaf-second/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-21-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-23-springboot-dubbo-ssm-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-24-springboot-dubbo-ssm-consumer/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springboot-21-parent/springboot-22-springboot-dubbo-interface/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

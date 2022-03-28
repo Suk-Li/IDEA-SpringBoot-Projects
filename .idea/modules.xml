@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-01-first/springboot-01-first.iml" filepath="$PROJECT_DIR$/springboot-01-first/springboot-01-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-02-springmvc/springboot-02-springmvc.iml" filepath="$PROJECT_DIR$/springboot-02-springmvc/springboot-02-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-03-contextpath/springboot-03-contextpath.iml" filepath="$PROJECT_DIR$/springboot-03-contextpath/springboot-03-contextpath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-04-jsp/springboot-04-jsp.iml" filepath="$PROJECT_DIR$/springboot-04-jsp/springboot-04-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-04-springboot-redis/springboot-04-springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-04-springboot-redis/springboot-04-springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-05-springboot-mybatis/springboot-05-springboot-mybatis.iml" filepath="$PROJECT_DIR$/springboot-05-springboot-mybatis/springboot-05-springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-06-springboot-transaction/springboot-06-springboot-transaction.iml" filepath="$PROJECT_DIR$/springboot-06-springboot-transaction/springboot-06-springboot-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-07-dubbo-interface/springboot-07-dubbo-interface.iml" filepath="$PROJECT_DIR$/springboot-07-dubbo-interface/springboot-07-dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-08-dubbo-provider/springboot-08-dubbo-provider.iml" filepath="$PROJECT_DIR$/springboot-08-dubbo-provider/springboot-08-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-09-dubbo-consumer/springboot-09-dubbo-consumer.iml" filepath="$PROJECT_DIR$/springboot-09-dubbo-consumer/springboot-09-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-10-springboot-dubbo-ssm-interface/springboot-10-springboot-dubbo-ssm-interface.iml" filepath="$PROJECT_DIR$/springboot-10-springboot-dubbo-ssm-interface/springboot-10-springboot-dubbo-ssm-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-11-springboot-dubbo-ssm-provider/springboot-11-springboot-dubbo-ssm-provider.iml" filepath="$PROJECT_DIR$/springboot-11-springboot-dubbo-ssm-provider/springboot-11-springboot-dubbo-ssm-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-12-springboot-dubbo-ssm-consumer/springboot-12-springboot-dubbo-ssm-consumer.iml" filepath="$PROJECT_DIR$/springboot-12-springboot-dubbo-ssm-consumer/springboot-12-springboot-dubbo-ssm-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-13-springboot-java-1/springboot-13-springboot-java-1.iml" filepath="$PROJECT_DIR$/springboot-13-springboot-java-1/springboot-13-springboot-java-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-14-springboot-java-2/springboot-14-springboot-java-2.iml" filepath="$PROJECT_DIR$/springboot-14-springboot-java-2/springboot-14-springboot-java-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-15-close-logo/springboot-15-close-logo.iml" filepath="$PROJECT_DIR$/springboot-15-close-logo/springboot-15-close-logo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-16-interceptor/springboot-16-interceptor.iml" filepath="$PROJECT_DIR$/springboot-16-interceptor/springboot-16-interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-17-servlet/springboot-17-servlet.iml" filepath="$PROJECT_DIR$/springboot-17-servlet/springboot-17-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-18-filter/springboot-18-filter.iml" filepath="$PROJECT_DIR$/springboot-18-filter/springboot-18-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-19-thymeleaf-first/springboot-19-thymeleaf-first.iml" filepath="$PROJECT_DIR$/springboot-19-thymeleaf-first/springboot-19-thymeleaf-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-20-thymeleaf-second/springboot-20-thymeleaf-second.iml" filepath="$PROJECT_DIR$/springboot-20-thymeleaf-second/springboot-20-thymeleaf-second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-21-parent/springboot-21-parent.iml" filepath="$PROJECT_DIR$/springboot-21-parent/springboot-21-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-22-springboot-dubbo-interface/springboot-22-springboot-dubbo-interface.iml" filepath="$PROJECT_DIR$/springboot-22-springboot-dubbo-interface/springboot-22-springboot-dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-23-springboot-dubbo-ssm-provider/springboot-23-springboot-dubbo-ssm-provider.iml" filepath="$PROJECT_DIR$/springboot-23-springboot-dubbo-ssm-provider/springboot-23-springboot-dubbo-ssm-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-24-springboot-dubbo-ssm-consumer/springboot-24-springboot-dubbo-ssm-consumer.iml" filepath="$PROJECT_DIR$/springboot-24-springboot-dubbo-ssm-consumer/springboot-24-springboot-dubbo-ssm-consumer.iml" />
+    </modules>
+  </component>
+</project>
